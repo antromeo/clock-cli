@@ -9,6 +9,7 @@ Simple CLI to get date
 [![Downloads/week](https://img.shields.io/npm/dw/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
 [![License](https://img.shields.io/npm/l/oclif-hello-world.svg)](https://github.com/oclif/hello-world/blob/main/package.json)
 
+Tested with Node: v14.0.0, npm: 6.14.4
 <!-- toc -->
 * [Usage](#usage)
 * [Commands](#commands)
