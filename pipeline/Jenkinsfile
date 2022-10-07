@@ -4,10 +4,13 @@ pipeline {
     tools {
         nodejs '14.0.0'
     }
+
     stages {
         stage('Build') {
             steps {
-                sh 'node --version'    
+                sh 'node --version'
+                sh 'ls -al'
+            }
         }
         stage('Test') {
             steps {
